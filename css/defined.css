@@ -1,0 +1,105 @@
+body {
+	
+}
+
+.navbar-nav > li > a{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-style: ;
+    text-transform: uppercase;
+	font-size: 14px;
+}
+.logo {
+	width: 50%;
+}
+
+.top-header{
+    background: #282828;
+    padding: 5px;
+}
+
+.tag {
+	line-height: 40px;
+	color: #555;
+}
+
+#wide {
+	padding: 3% 28% 3% 28%;
+}
+
+footer{
+	background: #101010;
+}
+
+.footer_nav li {
+	list-style-type: none;
+}
+
+.footer_nav li a {
+	color: #fff;
+	font-weight: ;
+}
+
+.links {
+	color: #00796b;
+	font-weight: bold;
+}
+
+#white_bg {
+	border-bottom: 1px solid #ddd;
+	box-shadow: 10px 4px 10px #ddd;
+}
+
+#newsletter {
+	background: url(../img/bg.png);
+	background-attachment: fixed;
+}
+
+.about {
+	color: #666;
+	line-height: 20px;
+}
+
+#footer2 {
+	background: #050608;
+	padding: 2%;
+}
+
+.terms {
+	color: #fff;
+}
+
+.terms a {
+	color: #fff;
+}
+
+
+/* CSS FOR CONTACT PAGE BEGINS HERE */
+#contact_bg {
+	background: url(../img/bg.png);
+	background-attachment: fixed;
+}
+
+#p_head {
+	background: #00796b;
+	color: #fff;
+	border-radius: 0;
+}
+
+#gp_btn {
+	background: #00796b;
+	border-radius: 0;
+}
+
+#gp_form select {
+	border-radius: 0;
+}
+
+#go_btn {
+	border-radius: 0;
+	background: #e9a449;
+}
+
+#bk {
+	border-radius: 0;
+}
